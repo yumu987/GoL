@@ -1,2 +1,2 @@
 # GoL
-Backup for Game of Life Golang assignment in year 2
+Back up for Game of Life Golang assignment in year 2
