@@ -1,2 +1,4 @@
 # GoL
-Back up for Game of Life Golang assignment in year 2
+To view how to do this coursework:https://github.com/yumu987/gol-skeleton
+Stay safe, and have a good one!
+:D
